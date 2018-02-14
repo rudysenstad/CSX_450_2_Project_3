@@ -1,14 +1,6 @@
 # CSX_450_2_Project_3
 
 
-Table of contents
-=================
-  
-  * [Domain](#domain)
-  * [Problem Statement](#problem_statement)
-
-
-
 ## Domain
 
 This problem uses Boston housing data from StatLib library which is maintained at Carnegie Mellon University. It is a commonly used dataset and even comes pre-loaded in data science programming libraries (e.g. Python's SciKit-Learn and natively in R). The data was collected in 1978 by David Harrison Jr. and Daniel Rubinfeld for their paper "Hedonic housing prices and the demand for clean".
